@@ -1,0 +1,7 @@
+tensorflow==1.6
+keras
+matplotlib
+numpy
+h5py
+pygame
+venvdotapp
