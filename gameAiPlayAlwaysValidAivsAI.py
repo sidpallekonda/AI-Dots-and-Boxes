@@ -1,9 +1,9 @@
 import tensorflow
 import numpy as np
 import keras
-from keras.models import Sequential
-from keras.layers.core import Dense
-from keras.optimizers import sgd
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.optimizers import SGD
 from gameLogic import *
 from gamePlay import Game
 import random

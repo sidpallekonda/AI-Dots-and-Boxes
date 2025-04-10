@@ -21,7 +21,7 @@ dark_green = (0,155,0)
 blue = (0, 20, 235)
 dark_blue = (0, 0, 155)
 
-model_name = "temp_mm500_hsmin1728_hsmax3456_lr1.0_d0.5_hl3_na144_tiFalse_1.h5"
+model_name = "sid_dummy_144.h5"
 model = load_model(model_name)
 
 global lines
